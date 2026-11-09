@@ -1,0 +1,6 @@
+{
+  "name": "GRANNY: THE NIGHTMARE",
+  "description": "A terrifying 2D multiplayer horror game where players must work together, find keys and tools, avoid traps, and escape Granny's multi-floor nightmare mansion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
